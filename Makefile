@@ -1,2 +1,2 @@
 all:
-	$CC mainc
+	$CC main.c
