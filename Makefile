@@ -1,2 +1,2 @@
 all:
-	$CC main.c
+	$(CC) main.c
