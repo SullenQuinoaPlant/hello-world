@@ -1,4 +1,4 @@
 language: c
-install:
+before-script:
 	- git clone https://github.com/jgigault/42FileChecker ~/42FileChecker
 script: make && make test
