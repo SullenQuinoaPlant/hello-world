@@ -1,7 +1,5 @@
 all:
-	echo $(pwd)
-	echo $(pwd)
-	echo $(pwd)
+	$$(pwd)
 	$(CC) main.c
 	pwd
 
