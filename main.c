@@ -6,3 +6,4 @@ int		main()
 	printf("\nhello world!");
 	return (0);
 }
+//a comment
